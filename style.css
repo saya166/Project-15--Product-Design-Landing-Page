@@ -1,0 +1,259 @@
+@import url("https://fonts.googleapis.com/css2?family=Arima:wght@300&family=Black+Han+Sans&family=Encode+Sans&family=Francois+One&family=Kaushan+Script&family=Merriweather+Sans:wght@800&family=Montserrat:wght@500&family=Orbitron:wght@500;900&family=Roboto:wght@100;300;700;900&family=Shadows+Into+Light&family=Signika+Negative:wght@500&family=Signika:wght@500;700&family=Varela&family=Volkhov:wght@700&display=swap");
+* {
+  font-family: "Signika Negative";
+}
+.container {
+  margin: -10px;
+  background-color: #0d0d0d;
+}
+.header {
+  margin-top: 5px;
+}
+.logo {
+  margin-left: 20px;
+  padding-top: 20px;
+}
+.navbar {
+  /* position: relative; */
+  margin-top: -30px;
+  margin-right: 60px;
+  float: right;
+}
+.dropdown {
+  /* position: absolute; */
+  position: relative;
+  display: none;
+}
+.list-item {
+  display: inline;
+  padding: 2px 15px;
+  color: white;
+}
+.m1-img {
+  margin-left: 7%;
+}
+.m1-body {
+  float: right;
+  margin-top: -22%;
+  margin-right: 15%;
+}
+.m1-body h3 {
+  color: #d82e2f;
+  font-size: 20px;
+}
+.m1-body h1 {
+  color: white;
+  word-spacing: 1px;
+  letter-spacing: 1px;
+  margin-top: -10px;
+  font-size: 37px;
+}
+.m1-body p {
+  margin-top: -10px;
+  color: white;
+}
+.btn button {
+  margin-top: 10px;
+  border: 1px solid #d82e2f;
+  width: 130px;
+  background-color: #d82e2f;
+  color: white;
+  padding: 9px;
+}
+
+.main2 {
+  margin-top: 2px;
+}
+.bg-black {
+  background: linear-gradient(
+    to right,
+    #1c1b1b 0%,
+    #1c1b1b 50%,
+    black 0%,
+    black 100%
+  );
+}
+.m2-p1 {
+  margin-left: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.parts {
+  border: 1px solid #181818;
+  margin: 55px;
+  padding: 20px 40px 2px 40px;
+  background-color: #181818;
+}
+.parts h3 {
+  font-size: 25px;
+  margin-top: 7px;
+  color: white;
+}
+.parts p {
+  margin-top: -10px;
+  font-size: 15px;
+  color: white;
+}
+.parts h4 {
+  font-size: 13px;
+  color: #d82e2f;
+}
+.dark {
+  background-color: #d82e2f;
+}
+.dark h4 {
+  color: white;
+}
+.m21 {
+  margin-top: 50px;
+  margin-left: 230px;
+  background-color: #1c1b1b;
+  width: 20%;
+}
+.m21 h1 {
+  font-size: 70px;
+  color: #d82e2f;
+}
+.m21 h2 {
+  word-spacing: 2px;
+  margin-left: -48px;
+  margin-top: -60px;
+  color: white;
+}
+.m22 {
+  display: flex;
+  flex-direction: row;
+  margin-left: 41%;
+  margin-top: -170px;
+}
+.m22 h2 {
+  text-align: center;
+  font-size: 30px;
+  color: #d82e2f;
+}
+.m22 h3 {
+  text-align: center;
+  color: white;
+  margin-top: -20px;
+}
+.m221 {
+  border: 0.5px solid black;
+  margin: 5px 40px 40px 5px;
+  padding-right: 50px;
+  padding-left: 50px;
+  background-color: #1c1b1b;
+}
+
+.main3 {
+  margin-top: 5px;
+}
+.m3-p1 {
+  margin-left: 140px;
+}
+.m3-p1 h3 {
+  font-size: 23px;
+  color: white;
+}
+.m3-p1 p {
+  margin-top: -10px;
+  color: white;
+}
+
+.btn-m3 button {
+  float: right;
+  margin-right: 170px;
+  margin-top: -55px;
+  border: 1px solid #d82e2f;
+  width: 130px;
+  background-color: #d82e2f;
+  color: white;
+  padding: 9px;
+}
+
+.m3-p2 {
+  margin-left: 100px;
+  margin-top: 46px;
+  display: flex;
+  flex-direction: row;
+}
+.m3proj {
+  margin: 20px;
+  padding: 50px 20px;
+  border: 1px solid black;
+  background-color: #1c1b1b;
+}
+
+.m3proj-content {
+  margin-left: 20px;
+}
+
+.m3proj-content h3 {
+  color: white;
+  margin-top: -5px;
+  font-size: 23px;
+}
+.m3proj-content h4 {
+  margin-top: -15px;
+  font-size: 13px;
+  color: #d82e2f;
+}
+.main4 {
+  background-color: #1c1b1b;
+  height: 190px;
+  padding: 20px;
+  border: 0.5px solid black;
+  margin-top: 40px;
+  margin-left: 120px;
+  margin-right: 140px;
+}
+.m4-p h1 {
+  color: white;
+  font-size: 35px;
+}
+.m4-p p {
+  color: white;
+  font-size: 14px;
+  margin-top: -10px;
+}
+.m4-b button {
+  float: right;
+  margin-right: 100px;
+  margin-top: -100px;
+  border: 1px solid #d82e2f;
+  width: 130px;
+  background-color: #d82e2f;
+  color: white;
+  padding: 9px;
+}
+
+.footer {
+  margin-top: 50px;
+}
+
+.navs {
+  margin-top: 2px;
+  text-align: center;
+}
+.foot-list-item {
+  display: inline;
+  padding: 10px 10px;
+  font-size: 14px;
+  color: white;
+  font-weight: bold;
+}
+.last-foot {
+  height: 80px;
+  background-color: #1c1b1b;
+}
+.foot-logo {
+  height: 40px;
+  margin: 20px;
+}
+.foot-icons {
+  text-align: center;
+  margin-top: -50px;
+}
+.fo-icons {
+  padding-left: 30px;
+}
