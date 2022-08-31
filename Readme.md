@@ -2,7 +2,7 @@
 
 - ## _`: By Sayali Patil`_
 
-![Product Design Landing Page](./assets/15.png)
+
 
 **[Click here](https://product-design-landing-page-saya.netlify.app/) for the live demo of the webpage on [Netlify](https://www.netlify.com/).**
 
