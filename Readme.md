@@ -4,14 +4,17 @@
 
 ![Product Design Landing Page](./assets/15.png)
 
-**[Click here](https://product-design-landing-page-saya.netlify.app/) for the live demo of the webspage on [Netlify](https://www.netlify.com/).**
+**[Click here](https://product-design-landing-page-saya.netlify.app/) for the live demo of the webpage on [Netlify](https://www.netlify.com/).**
 
 ## Key Features
 
-**Product Design Landing Page** is The sample webpage that is Designed with HTML5 and CSS-3.
+**Product Design Landing Page** is The sample Responsive webpage that is Designed with HTML5 and CSS-3.
 
 - ### Font Used -
+
   - Signika Negative
+
+- `Media Queries` are used.
 - Icons are used from _canva_.
 - The website is hosted on _Netlify_.
 - Introduced with how to colorize only half side background of webpage.
